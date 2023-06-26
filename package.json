@@ -1,0 +1,30 @@
+{
+  "name": "learnweb3io_mev_searcher_-using_flashbots",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jps80/learnweb3io_MEV_searcher_-using_Flashbots.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jps80/learnweb3io_MEV_searcher_-using_Flashbots/issues"
+  },
+  "homepage": "https://github.com/jps80/learnweb3io_MEV_searcher_-using_Flashbots#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "hardhat": "^2.14.0"
+  },
+  "dependencies": {
+    "@flashbots/ethers-provider-bundle": "^0.6.2",
+    "@openzeppelin/contracts": "^4.9.2",
+    "dotenv": "^16.3.1",
+    "ethers": "^5.0.0"
+  }
+}
